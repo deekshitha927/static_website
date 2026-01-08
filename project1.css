@@ -30,7 +30,7 @@
   top: 40px;
   left: 55%;
   font-family: "Times New Roman", Times, serif;
-  font-size: 35px;
+  font-size: 28px;
 }
 .parent {
   width: 30%;
@@ -129,7 +129,7 @@
   position: relative;
   top: 7%;
   left: 27%;
-  font-size: 26px;
+  font-size: 18px;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-style: italic;
 }
@@ -139,7 +139,8 @@
   position: relative;
   top: 8%;
   left: 29%;
-  font-size: 34px;
+  font-size: 25px;
+  align-items:center;
 }
 .pa {
   width: 52%;
@@ -232,7 +233,7 @@
   position: relative;
   left: 41px;
   top: 11%;
-  font-size: large;
+  font-size: 15px;
   font-family: "Times New Roman", Times, serif;
   font-weight: bold;
 }
@@ -242,7 +243,7 @@
   position: relative;
   top: 30%;
   right: 85px;
-  font-size: 19px;
+  font-size: 10px;
   font-family: "Times New Roman", Times, serif;
 }
 .copy {
@@ -251,7 +252,7 @@
   position: relative;
   left: 9%;
   top: 11%;
-  font-size: large;
+  font-size: 15px;
   font-family: "Times New Roman", Times, serif;
   font-weight: bold;
 }
@@ -289,7 +290,7 @@
   position: relative;
   left: 9%;
   top: 11%;
-  font-size: large;
+  font-size: 15px;
   font-family: "Times New Roman", Times, serif;
   font-weight: bold;
 }
@@ -320,7 +321,7 @@
   color: #f2f2f2;
 }
 h2 {
-  font-size: 50px;
+  font-size: 40px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 .duis {
@@ -332,7 +333,7 @@ h2 {
   color: #f2f2f2;
 }
 h3 {
-  font-size: 35px;
+  font-size: 25px;
   font-family: "Times New Roman", Times, serif;
 }
 .learn {
@@ -348,7 +349,7 @@ h3 {
   align-items: center;
   text-align: center;
   font-weight: bold;
-  font-size: xx-large;
+  font-size: 20px;
   cursor: pointer;
   color: #f2f2f2;
 }
@@ -384,7 +385,7 @@ h3 {
     position: relative;
     left:55%;
     top:5%;
-    font-size: 40px;
+    font-size: 35px;
 }
 .build{
     width:40%;
@@ -392,7 +393,7 @@ h3 {
     position: relative;
     left:55%;
     top:5%;
-    font-size: 70px;
+    font-size: 60px;
     font-family: 'Times New Roman', Times, serif;
 }
 .common{
@@ -409,7 +410,7 @@ h3 {
     position: relative;
     left:55%;
     top:15%;
-    font-size: 25px;
+    font-size: 20px;
     color: orange;
 }
 .read{
@@ -422,7 +423,7 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
+    font-size: 20px;
     border-radius: 50px;
     color: white;
     cursor: pointer;
@@ -431,7 +432,8 @@ h3 {
     transform: scale(1.1);
 }
 p{
-    font-size: 28px;
+    font-size: 20px;
+  text-align:center;
 }
 .pic1{
     width:8%;
@@ -455,9 +457,10 @@ p{
     justify-content: center;
     align-items: center;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
     cursor: pointer;
 }
 .contact:hover{
     transform: scale(1.1);
+
 }
